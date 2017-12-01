@@ -8,4 +8,4 @@
 ![0x1](http://ow9xqp3ki.bkt.clouddn.com/DeepinScreenshot_select-area_20171201175650.png)
 
 
-<br>详细请看 http://hexlt.org
+<br>详细请看 http://www.hexlt.org/archives/22/
