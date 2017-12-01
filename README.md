@@ -3,7 +3,7 @@
 测试前请先用pip安装bs4,requests,multiprocessing模块
 <br>
 结果保存在数据库中
-<br>利用爬虫获得的数据绘制的实时消费动态图：
+<br>利用爬虫获得的数据绘制的实时消费情况图：
 
 ![0x1](http://ow9xqp3ki.bkt.clouddn.com/DeepinScreenshot_select-area_20171201175650.png)
 
